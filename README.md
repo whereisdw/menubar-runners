@@ -19,7 +19,7 @@ The previews show each runner in template mode (tinted per AI) and original mode
 
 ## Use it
 
-**Lidnight** (Pro, included in the 7-day trial): Settings › Menu bar › Custom › Add a runner… → pick all PNGs of one folder → Add. Template mode gives each AI agent its own color.
+**Lidnight** (Pro, included in the free trial): Settings › Menu bar › Custom › Add a runner… → pick all PNGs of one folder → Add. Template mode gives each AI agent its own color.
 
 **RunCat**: Settings › Runner › Custom runner › Add → pick the frames in order.
 
